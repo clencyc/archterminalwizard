@@ -24,3 +24,7 @@ chmod +x customizeterminal
 
 # Run the script
 ./customizeterminal
+
+After Installation
+Once the script finishes, restart your terminal or run:
+exec zsh
